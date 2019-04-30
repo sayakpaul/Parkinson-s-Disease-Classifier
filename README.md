@@ -6,7 +6,7 @@ which shows how to automatically detect Parkinson’s disease in hand-drawn imag
 computer vision techniques like _Histogram of Oriented Gradients (HOG)_ for quantifying the features of the images and 
 used them to train a _Random Forest Classifier_. He got an accuracy of **83.33%**. 
 
-I decided to apply deep learning to this problem and see if I can push the score. 
+I decided to apply deep learning to this problem and see if I can push the score. To see if I was able to do this, I would request you to take a look at the accompanying notebook [here](https://github.com/sayakpaul/Parkinson-s-Disease-Classifier/blob/master/Parkinson_s_Disease_Classifier.ipynb).
 
 Useful links:
 - [PyImageSearch Gurus](https://www.pyimagesearch.com/pyimagesearch-gurus/)
